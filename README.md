@@ -9,10 +9,11 @@ Confira [meus cursos mais recentes](https://cursos.alura.com.br/vitrinedev/mfagu
 - Proprietário e programador na [Efficere Soluções em TI](https://sisefficere.com.br) atuando no desenvolvimento, análise e gerenciamento de sistemas.
 - Freelancer sempre que possível.
 
-### Linguagens
+### Conhecimento e stack
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=flealdev&layout=compact&hide_title=true)](https://github.com/Pranesh-2005/github-readme-stats)
+
 [![My Skills](https://skillicons.dev/icons?i=java,dart,js,css,html&perline=6&theme=light)](https://fleal.pages.dev)
 
-### Ferramentas e frameworks
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
