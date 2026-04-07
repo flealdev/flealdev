@@ -1,11 +1,13 @@
 ## Olá, seja bem-vindo(a)! 👋
+Me chamo Michel e sou um analista e desevolvedor de sistemas.
 
-Me chamo Michel e sou um analista e desevolvedor de sistemas. Atualmente meu foco é desenvolvimento web e nativo. Entusiasta de novas tecnologias, frameworks, UI e UX.
+Atualmente meu foco é desenvolvimento web e nativo mas sou entusiasta de novas tecnologias, frameworks, UI e UX.
 
+Confira [meus cursos mais recentes](https://cursos.alura.com.br/vitrinedev/mfagundesleal).
 
 ### Ocupação atual
-- Empreendedor na Efficere Soluções em TI
-- Freelancer
+- Proprietário e programador na [Efficere Soluções em TI](https://sisefficere.com.br) atuando no desenvolvimento, análise e gerenciamento de sistemas.
+- Freelancer sempre que possível.
 
 ### Linguagens
 [![My Skills](https://skillicons.dev/icons?i=java,dart,js,css,html&perline=6&theme=light)](https://fleal.pages.dev)
@@ -37,6 +39,6 @@ Me chamo Michel e sou um analista e desevolvedor de sistemas. Atualmente meu foc
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-#### Fontes
-- https://github.com/tandpfun/skill-icons
-- https://github.com/Ileriayo/markdown-badges
+### Links
+- [Meu blog pessoal](https://fleal.pages.dev) (desenvolvido no framework Astro).
+- [Site da minha empresa](https://sisefficere.com.br) (desenvolvido no framework Sveltekit).
