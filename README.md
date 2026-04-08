@@ -41,5 +41,5 @@ Confira [meus cursos mais recentes](https://cursos.alura.com.br/vitrinedev/mfagu
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 ### Links
-- [Meu blog pessoal](https://fleal.pages.dev) (desenvolvido no framework Astro).
+- [Meu blog pessoal](https://fleal.pages.dev) (desenvolvido no framework Astro, tema Astro Devosfera).
 - [Site da minha empresa](https://sisefficere.com.br) (desenvolvido no framework Sveltekit).
