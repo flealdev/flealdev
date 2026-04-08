@@ -1,8 +1,4 @@
 ## Olá, seja bem-vindo(a)! 👋
-Me chamo Michel e sou um analista e desevolvedor de sistemas.
-
-Atualmente meu foco é desenvolvimento web e nativo mas sou entusiasta de novas tecnologias, frameworks, UI e UX.
-
 Confira [meus cursos mais recentes](https://cursos.alura.com.br/vitrinedev/mfagundesleal).
 
 ### Ocupação atual
